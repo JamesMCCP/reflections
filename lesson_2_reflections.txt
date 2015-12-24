@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates a hidden ".git" repository. You need to intiate a repository to enable the git functionality.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is the temporary space where commit files are stored before being commited. It also allows one to commit only the files you want saved.
