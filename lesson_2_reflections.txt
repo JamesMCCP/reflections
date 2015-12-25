@@ -21,3 +21,7 @@ It allows you to quickly recognise branches, especially those that are unreachab
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It adds lines of code that were deliberately added, and those that were deliberately added, and combines them into a single branch. The diagram makes it very easy to see how the merged branches related to each other.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro's are that you individually assess each branch, and ensure that merging two branches effectively resolves the conflict. The con is that this process doesn't happen automatically - and that you might even miss some conflicts that could bite you in the ass later.
