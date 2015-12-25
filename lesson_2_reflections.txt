@@ -17,3 +17,7 @@ I think branches would help a lot if you are experimenting with different forms 
 How do the diagrams help you visualize the branch structure?
 
 It allows you to quickly recognise branches, especially those that are unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It adds lines of code that were deliberately added, and those that were deliberately added, and combines them into a single branch. The diagram makes it very easy to see how the merged branches related to each other.
