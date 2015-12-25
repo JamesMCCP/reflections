@@ -13,3 +13,7 @@ You can use the git diff --staged command to see the differences between the mas
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 I think branches would help a lot if you are experimenting with different forms of prototypes or looking to make changes that are relatively unrelated to the master document.
+
+How do the diagrams help you visualize the branch structure?
+
+It allows you to quickly recognise branches, especially those that are unreachable.
