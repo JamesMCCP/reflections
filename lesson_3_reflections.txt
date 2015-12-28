@@ -17,3 +17,7 @@ It would be a great advantage to have the last copy of the known state of a remo
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I think for a single user project worked on in real time, I may think it could be easier collaborating using messenger or email. But for projects where multiple people are involved, working on different features, I feel GitHub could really help with creation and editing! Pretty cool actually :)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would have a benefit of making changes in your own branch to allow you to work on prototypes etc. Working directly in master runs the risk of breaking it whent trialing things. Also if you're working remotely you may want to create an additional branch in order to more easily incorporate any changes that may have been made by peers when working offline etc.
