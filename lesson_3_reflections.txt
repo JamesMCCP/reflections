@@ -13,3 +13,7 @@ Forks are used on GitHub to create a copy of the existing respository without ne
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It would be a great advantage to have the last copy of the known state of a remote locally before going offline for a period. It would be highly advantagous to use this copy to work on whilst in offline mode without impacting any other files, and also when coming back online, it would be useful to sync up without affecting any of the locally edited files.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I think for a single user project worked on in real time, I may think it could be easier collaborating using messenger or email. But for projects where multiple people are involved, working on different features, I feel GitHub could really help with creation and editing! Pretty cool actually :)
