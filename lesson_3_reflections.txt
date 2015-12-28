@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 It would be useful to use a remote repository when you are working with others and want to share your work. It would also be useful if you are working on different machines and want to keep using the same files.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because sometimes you might want to be working on a prototype that may be very different to that of Git. Especially if you are using free GitHub account without private file storage.
