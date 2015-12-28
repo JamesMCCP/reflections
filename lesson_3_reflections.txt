@@ -9,3 +9,7 @@ Because sometimes you might want to be working on a prototype that may be very d
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are used on GitHub to create a copy of the existing respository without needing permission to edit the original, and also gives the original author credit for editing the files. Git clone creates an identical copy of the repository, and can be used to pull the forked repository down from the original. Finally branch can be used to create an alternate version of the original such that you're edits don't affect the master branch - useful for keeping a master branch bug-free whilst working on some lairy prototype.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It would be a great advantage to have the last copy of the known state of a remote locally before going offline for a period. It would be highly advantagous to use this copy to work on whilst in offline mode without impacting any other files, and also when coming back online, it would be useful to sync up without affecting any of the locally edited files.
